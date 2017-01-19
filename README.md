@@ -1,13 +1,38 @@
-### OrderButton是一个仿造*饿了么*下单按钮的自定义View
+Drawer
+======
 
-#### 感谢
-部分代码借鉴这个项目[ElemeShoppingView](https://github.com/JeasonWong/ElemeShoppingView)
 
-#### 效果图
-![order.gif](https://github.com/LinXiaoTao/OrderButton/blob/master/gif/order.gif)
+This is OrderView demo
 
-#### 相关知识
-这个自定义View的效果实现倒不是难点所在，而在于应用在RecyclerView等涉及View复用的控件上，因为View的复用，所以要
-处理好状态，才不会出现混乱的局面.
-效果的实现主要是用了ValueAnimator
-# OrderView
+Download
+========
+[ Download demo.apk ](https://github.com/chenzongwen/OrderView.git/demo.apk)
+
+Demo
+====
+ ![image](https://github.com/chenzongwen/OrderView/blob/master/raw/order.gif)
+
+
+
+Author
+===========
+
+- [e-mail](zongwen.chen@qq.com)
+- [blog](http://blog.csdn.net/owenchan1987)
+
+License
+============
+
+    Copyright 2016 Owen Chan
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
